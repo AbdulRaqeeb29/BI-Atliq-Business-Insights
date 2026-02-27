@@ -1,5 +1,5 @@
-📊 Business Insights 360 – Power BI Project
-🔎 Project Overview
+*📊 Business Insights 360 – Power BI Project
+**🔎 Project Overview
 
 Business Insights 360 is an end-to-end Power BI analytics solution designed to provide 360° visibility into business performance across Finance, Sales, Marketing, and Supply Chain functions.
 
@@ -8,7 +8,7 @@ This project simulates a real-world enterprise reporting environment where decis
 The solution is built using strong data modeling principles, DAX calculations, and business-focused analytics techniques.
 
 
-🎯 Business Objectives
+**🎯 Business Objectives
 
 Monitor overall company financial performance
 
@@ -20,7 +20,7 @@ Analyze supply chain performance and operational efficiency
 
 Enable management-level KPI tracking with dynamic filtering
 
-🏗️ Data Architecture
+**🏗️ Data Architecture
 
 The project is built using:
 
@@ -42,7 +42,7 @@ Efficient DAX performance
 
 Scalable enterprise-ready structure
 
-🛠️ Tools & Technologies Used
+**🛠️ Tools & Technologies Used
 
 Power BI Desktop
 
@@ -56,7 +56,7 @@ OLTP & OLAP Concepts
 
 Star & Snowflake Schema Modeling
 
-📂 Project Views
+**📂 Project Views
 💰 Finance View
 
 Profit & Loss Statement
