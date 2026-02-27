@@ -108,3 +108,52 @@ The solution is built using strong data modeling principles, DAX calculations, a
 **4.** Supply Efficiency KPIs
 
 📄 Supply Chain View Preview included in repository
+
+## 🧠 Key Skills Demonstrated
+
+Data Transformation using Power Query
+
+Relational Data Modelling
+
+DAX Measure Development
+
+OLTP to OLAP Data Structuring
+
+Star & Snowflake Schema Design
+
+Sales Analytics
+
+Business Analytics
+
+Marketing Analytics
+
+Supply Chain Analytics
+
+KPI Development & Performance Tracking
+
+📊 Advanced DAX Highlights
+
+% Sales Contribution
+
+Dynamic Ranking using RANKX
+
+Time Intelligence (YoY, YTD, MTD)
+
+Conditional Formatting Measures
+
+Variance Analysis using CALCULATE & ALL
+
+🚀 Business Impact
+
+This dashboard enables stakeholders to:
+
+Identify revenue leakage
+
+Monitor margin performance
+
+Improve forecasting accuracy
+
+Optimize inventory decisions
+
+Drive data-driven strategic planning
+
