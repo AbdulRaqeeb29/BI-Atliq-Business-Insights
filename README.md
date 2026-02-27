@@ -10,15 +10,17 @@ The solution is built using strong data modeling principles, DAX calculations, a
 
 ## 🎯 Business Objectives
 
-**1.** Monitor overall company financial performance
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+  
+- Monitor overall company financial performance
 
-Track sales growth and product contribution
+- Track sales growth and product contribution
 
-Evaluate marketing effectiveness across regions
+- Evaluate marketing effectiveness across regions
 
-Analyze supply chain performance and operational efficiency
+- Analyze supply chain performance and operational efficiency
 
-Enable management-level KPI tracking with dynamic filtering
+- Enable management-level KPI tracking with dynamic filtering
 
 ## 🏗️ Data Architecture
 
