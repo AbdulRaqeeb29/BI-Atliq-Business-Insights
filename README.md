@@ -7,6 +7,9 @@ This project simulates a real-world enterprise reporting environment where decis
 
 The solution is built using strong data modeling principles, DAX calculations, and business-focused analytics techniques.
 
+_[Live-dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWY2NjA0MDAtOTI2Zi00NjA3LWEyZmMtOWNlM2RjZjc4MzhhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+
+
 
 ## 🎯 Business Objectives
   
