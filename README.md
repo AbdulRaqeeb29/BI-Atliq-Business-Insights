@@ -152,7 +152,7 @@ _[Supply-chain-view](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/bl
 
 ## 🚀 Business Impact
 
-- This dashboard enables stakeholders to:
+**This dashboard enables stakeholders to:**
 
 - Identify revenue leakage
 
