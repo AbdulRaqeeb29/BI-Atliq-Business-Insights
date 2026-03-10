@@ -150,7 +150,7 @@ _[Supply-chain-view](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/bl
 
 - Variance Analysis using CALCULATE & ALL
 
-# 🚀 Business Impact
+## 🚀 Business Impact
 
 - This dashboard enables stakeholders to:
 
